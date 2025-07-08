@@ -1,0 +1,14 @@
+.idea/
+venv/
+.pytest_cache
+__pycache__/
+build/
+dist/
+*.egg-info/
+*.pyc
+*.pyo
+*.pyd
+*.pb
+*.pb-c.*
+*.db
+.coverage
