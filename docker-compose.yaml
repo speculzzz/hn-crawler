@@ -1,0 +1,4 @@
+services:
+  hn-crawler:
+    build: .
+    restart: unless-stopped
